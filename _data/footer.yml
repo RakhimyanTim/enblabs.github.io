@@ -1,59 +1,53 @@
 
-- title: CloudCannon
+- title: EnbLabs
   links:
-    - name: Home
+    - name: Главная
       link: /
-    - name: Pricing
+    - name: Прайс
       link: /pricing/
-    - name: Blog
+    - name: Блог
       link: /blog/
-    - name: Gallery
+    - name: Галерея идей
       link: /gallery/
-    - name: Experts
+    - name: Эксперты
       link: /experts/
-    - name: About
+    - name: О нас
       link: /about/
-- title: Resources
+- title: Ресурсы
   links:
-    - name: Academy
-      link: https://learn.cloudcannon.com/
-    - name: Freebies
+    - name: Академия
+      link: https://enblabs.ru/
+    - name: Плюшки
       link: /freebies/
-    - name: Case Studies
+    - name: Кейсы
       link: /case-studies/
-    - name: Press
+    - name: СМИ
       link: /press/
-    - name: Contact
+    - name: Контакты
       link: /contact/
-- title: Social
+- title: Соцсети
   links:
     - name: Twitter
-      link: https://twitter.com/CloudCannon
+      link: https://twitter.com/enblabs
       social_icon: Twitter
       new_window: true
     - name: Facebook
-      link: https://www.facebook.com/CloudCannon
+      link: https://www.facebook.com/enblabs
       social_icon: Facebook
       new_window: true
     - name: Google+
-      link: https://plus.google.com/+CloudCannon
+      link: https://plus.google.com/+enblabs
       social_icon: Google Plus
       new_window: true
     - name: YouTube
-      link: https://www.youtube.com/c/CloudCannon
+      link: https://www.youtube.com/c/enblabs
       social_icon: YouTube
       new_window: true
-- title: App
+- title: Сервис
   links:
-    - name: Sign Up
-      link: https://app.cloudcannon.com/users/sign_up
-      class: sign-up
-    - name: Log in
-      link: https://app.cloudcannon.com/
-      class: sign-up
-    - name: Documentation
-      link: https://docs.cloudcannon.com/
+    - name: Документация
+      link: https://docs.enblabs.ru/
       new_window: true
-    - name: Status
-      link: https://status.cloudcannon.com/
+    - name: Статус
+      link: https://status.enblabs.ru/
       new_window: true
