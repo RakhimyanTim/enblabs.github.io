@@ -32,6 +32,16 @@ blog_name: The CloudCannon Blog
 blog_description: Stay informed with the latest news and web development tutorials from CloudCannon, the Cloud CMS for Jekyll and static sites.
 permalink: pretty
 timezone: Pacific/Auckland
+
+permalink: /jekyll/:title/
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-archives
+
 collections:
   gallery:
     name: Gallery
