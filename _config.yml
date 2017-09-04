@@ -1,9 +1,9 @@
-title: Enblabs
+title: ЭнБиЛабс
 description: Сервис для проверки идеи стартапа.
 url: https://enblabs.ru
 disqus_shortname: enblabs
 
-logo: http://cloudcannon.com/img/enblabs-logo.png
+logo: https://enblabs.ru/img/enblabs-logo.png
 twitter:
   username: enblabs
 
@@ -19,7 +19,7 @@ social:
     - https://www.linkedin.com/company/enblabs
     - https://github.com/enblabs
 
-google_site_verification: GkBrJRSQqF43wQVGLUeUJFTPBldtIXGCw9toqvS2o_o
+google_site_verification:
 company:
   founded: Ноябрь 2017
   team_size: 3
@@ -44,7 +44,7 @@ gems:
 
 collections:
   gallery:
-    name: Галереия
+    name: Галерея
     output: false
   experts:
     name: Эксперты
