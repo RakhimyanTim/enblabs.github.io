@@ -31,13 +31,11 @@
 					</ul>
 
 					<ul class="user">
-						<li><a target="_blank" href="https://docs.cloudcannon.com/">Docs</a></li>
-						<li><a href="https://app.cloudcannon.com/">Log in</a></li>
 						<li><a href="callto:+7(996)400-25-90" class="sign-up">+7 (996) 400-25-90</a></li>
 					</ul>
 				</div>
 
-				<a id="menu-toggle" href="#"><img src="/img/menu.svg" width="30" height="30" alt="Menu"></a>
+				<a id="menu-toggle" href="#"><img src="/img/menu.svg" width="30" height="30" alt="Меню"></a>
 			</div>
 		</nav>
 
@@ -58,7 +56,7 @@
 						<div class="share-options">
 							{% assign url = page.url | prepend: site.url | cgi_escape %}
 							<a class="share-btn facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ url }}" target="_blank">{% include social-icon.html icon="Facebook" %} Share</a>
-							<a class="share-btn twitter" href="https://twitter.com/intent/tweet?url={{ url }}&amp;text={{ page.share_text | cgi_escape }}&amp;via=CloudCannon" target="_blank">{% include social-icon.html icon="Twitter" %} Tweet</a>
+							<a class="share-btn twitter" href="https://twitter.com/intent/tweet?url={{ url }}&amp;text={{ page.share_text | cgi_escape }}&amp;via=enblabs" target="_blank">{% include social-icon.html icon="Twitter" %} Tweet</a>
 							<a class="share-btn google-plus" href="https://plus.google.com/share?url={{ url }}" target="_blank">{% include social-icon.html icon="Google Plus" %} Share</a>
 						</div>
 					{% endif %}
@@ -88,9 +86,9 @@
 
 			<div class="legal-line">
 				<p class="container">
-					&copy; {{ site.time | date: '%Y' }} CloudCannon Ltd &bull;
-					<a href="https://app.cloudcannon.com/terms">Terms</a> &amp;
-					<a href="https://app.cloudcannon.com/privacy_policy">Privacy</a>
+					&copy; {{ site.time | date: '%Y' }} ООО "ЭнБиЛабс" &bull;
+					<a href="#">Условия</a> &amp;
+					<a href="#">Конфиденциальность</a>
 				</p>
 			</div>
 		</footer>
