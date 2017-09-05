@@ -24,7 +24,6 @@ company:
   founded: Ноябрь 2017
   team_size: 3
   address: 450001, Уфа, ул. Проспект Октября, 2
-  funding: 
 
 paginate: 10
 paginate_path: "blog/:num/"
