@@ -1,5 +1,5 @@
 
-- title: EnbLabs
+- title: ЭнБиЛабс
   links:
     - name: Главная
       link: /
@@ -15,31 +15,25 @@
       link: /about/
 - title: Ресурсы
   links:
-    - name: Академия
-      link: https://enblabs.ru/
-    - name: Плюшки
-      link: /freebies/
-    - name: Кейсы
-      link: /case-studies/
-    - name: СМИ
+    - name: Пресса
       link: /press/
     - name: Контакты
       link: /contact/
 - title: Соцсети
   links:
-    - name: Twitter
+    - name: Твиттер
       link: https://twitter.com/enblabs
       social_icon: Twitter
       new_window: true
-    - name: Facebook
+    - name: Фейсбук
       link: https://www.facebook.com/enblabs
       social_icon: Facebook
       new_window: true
-    - name: Google+
+    - name: Гугл+
       link: https://plus.google.com/+enblabs
       social_icon: Google Plus
       new_window: true
-    - name: YouTube
+    - name: Ютуб
       link: https://www.youtube.com/c/enblabs
       social_icon: YouTube
       new_window: true
