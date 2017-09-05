@@ -35,13 +35,6 @@ timezone: МСК+3
 
 permalink: /jekyll/:title/
 
-gems:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-archives
-
 collections:
   gallery:
     name: Галерея
