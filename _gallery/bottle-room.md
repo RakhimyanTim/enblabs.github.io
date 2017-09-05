@@ -1,5 +1,5 @@
 ---
-name: Bottle Room
-image_path: /img/gallery/bottle-room.jpeg
-link: http://thebottleroombar.com/
+name: Приложение для проверки зрения
+image_path: /img/gallery/keepvision.jpeg
+link: https://keepvision.ru/
 ---
