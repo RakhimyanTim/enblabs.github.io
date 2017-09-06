@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Пресса
-header: Пресса
-header_subtext: Сведения о компании и упоминания в СМИ.
+title: Press
+header: Press
+header_subtext: Company details and media mentions
 permalink: /press/
-investors:
 investors:
   - Adam Clark
   - Clearpoint Investment Two Limited
@@ -21,11 +20,11 @@ investors:
   - SiMART Limited
   - TAINZ Ventures Limited
   - Think Tank Brains Trust
-description: Сведения о компании и упоминания в СМИ от ЭнБиЛабс, сервиса для проверки идеи стартапа.
+description: Company details and media mentions for CloudCannon, the Cloud CMS for Jekyll and static sites.
 media_contacts:
-  - name: Рахимян Тимерханов
-    position: Директор &amp; Основатель
-    email: rahimtoy@gmail.com
+  - name: Mike Neumegen
+    position: CEO &amp; Co-Founder
+    email: mike@cloudcannon.com
 milestones:
   - name: Lightning Lab
     logo_path: /img/lightning_lab.png
@@ -37,7 +36,6 @@ milestones:
     date: 2014-04-01 00:00:00
     link: http://kiwilandingpad.com/
     description: KLP8 Programme at Kiwi Landing Pad
-
 articles:
   - logo_path: /img/press/techcrunch.png
     name: TechCrunch
@@ -194,30 +192,30 @@ articles:
     link: http://jekyllconf.com
     title: Sponsor for JekyllConf 2016
     date: 2016-05-12 00:00:00
-  ---
+---
 <section>
 	<div class="container text-container">
-		<h3>Информация о компании</h3>
+		<h3>Company Info</h3>
 
-		<h4>Основано</h4>
+		<h4>Founded</h4>
 		<p>{{ site.company.founded }}</p>
 
-		<h4>Размер команды</h4>
+		<h4>Team Size</h4>
 		<p>{{ site.company.team_size }}</p>
 
-		<h4>Расположено</h4>
+		<h4>Located</h4>
 		<p>{{ site.company.address }}</p>
 
-		<h4>Проинвестировано</h4>
+		<h4>Funding</h4>
 		<p>{{ site.company.funding }}</p>
 
-		<h4>Инвесторы</h4>
+		<h4>Investors</h4>
 		<p>{{ page.investors | array_to_sentence_string }}</p>
 
-		<h4>Контакты для СМИ</h4>
+		<h4>Media Contacts</h4>
 		<p>
 			{% for contact in page.media_contacts %}
-				{{ contact.name }}, {{ contact.position }} <a href="mailto:{{ contact.email }}">Эл. почта</a>
+				{{ contact.name }}, {{ contact.position }} <a href="mailto:{{ contact.email }}">Email</a>
 				{% unless forloop.last %}<br>{% endunless %}
 			{% endfor %}
 		</p>
@@ -226,7 +224,7 @@ articles:
 
 <section id="featured-articles">
 		<div class="container text-container articles">
-			<h3>Избранные статьи</h3>
+			<h3>Featured Articles</h3>
 
 			{% for article in page.articles reversed %}
 			<div class="article">
@@ -243,7 +241,7 @@ articles:
 <section>
 	<div class="container text-container">
 		<div class="milestones">
-			<h3>Вехи</h3>
+			<h3>Milestones</h3>
 			{% for milestone in page.milestones reversed %}
 				<div class="milestone">
 					<img src="{{ milestone.logo_path }}" alt="{{ milestone.name }}">
