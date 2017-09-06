@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Press
-header: Press
-header_subtext: Company details and media mentions
+title: Пресса
+header: Пресса
+header_subtext: Сведения о компании и упоминания в СМИ
 permalink: /press/
 investors:
   - Adam Clark
@@ -20,7 +20,7 @@ investors:
   - SiMART Limited
   - TAINZ Ventures Limited
   - Think Tank Brains Trust
-description: Company details and media mentions for CloudCannon, the Cloud CMS for Jekyll and static sites.
+description: Сведения о компании и упоминания в СМИ.
 media_contacts:
   - name: Mike Neumegen
     position: CEO &amp; Co-Founder
@@ -195,21 +195,21 @@ articles:
 ---
 <section>
 	<div class="container text-container">
-		<h3>Company Info</h3>
+		<h3>Информация о компании</h3>
 
-		<h4>Founded</h4>
+		<h4>Основана</h4>
 		<p>{{ site.company.founded }}</p>
 
-		<h4>Team Size</h4>
+		<h4>Размер команды</h4>
 		<p>{{ site.company.team_size }}</p>
 
-		<h4>Located</h4>
+		<h4>Расположена</h4>
 		<p>{{ site.company.address }}</p>
 
-		<h4>Funding</h4>
+		<h4>Инвестиции</h4>
 		<p>{{ site.company.funding }}</p>
 
-		<h4>Investors</h4>
+		<h4>Инвесторы</h4>
 		<p>{{ page.investors | array_to_sentence_string }}</p>
 
 		<h4>Media Contacts</h4>
@@ -224,7 +224,7 @@ articles:
 
 <section id="featured-articles">
 		<div class="container text-container articles">
-			<h3>Featured Articles</h3>
+			<h3>Избранные статьи</h3>
 
 			{% for article in page.articles reversed %}
 			<div class="article">
@@ -241,7 +241,7 @@ articles:
 <section>
 	<div class="container text-container">
 		<div class="milestones">
-			<h3>Milestones</h3>
+			<h3>Основные этапы</h3>
 			{% for milestone in page.milestones reversed %}
 				<div class="milestone">
 					<img src="{{ milestone.logo_path }}" alt="{{ milestone.name }}">
