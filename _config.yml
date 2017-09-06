@@ -24,7 +24,7 @@ company:
   founded: Ноябрь 2017
   team_size: 3
   address: 450001, Уфа, ул. Проспект Октября, 2
-  funding:
+  funding: $30K Pre Seed
   
 gems:
   - jekyll-sitemap
@@ -38,9 +38,7 @@ paginate_path: "blog/:num/"
 blog_name: Блог ЭнБиЛабс
 blog_description: Оставайтесь в курсе последних новостей.
 permalink: pretty
-timezone: МСК+3
-
-permalink: /jekyll/:title/
+timezone: Yekaterinburg
 
 collections:
   gallery:
