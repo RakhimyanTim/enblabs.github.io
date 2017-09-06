@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to build a status page with Jekyll and Uptimerobot
-header: How to build a Jekyll status page
+title: Как очень быстро проверять идеи
+header: Как очень быстро проверять идеи
 category: Features
 post_image: /img/blog/status-page/banner@2x.png
 post_image_type: image/png
