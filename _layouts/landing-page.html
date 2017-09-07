@@ -2,17 +2,18 @@
 layout: default
 landing_page: true
 ---
-<header class="fancy-hero">
+<header class="fancy-hero new-content">
  		<div class="container">
  			<h2>{{ page.title }}</h2>
-			<p class="sub-text landing-page">{{ page.description }}</p>
+			<p class="sub-text landing-page">Устали сливать бюджет на то, что не приносит ощутимого результата?<br>Мы понимаем вас лучше, чем вы думаете.</p>
 
-			<div style="display: inline-block; position: relative;top: -30px;">
-					<a href="{{ page.call-to-action.url }}" class="btn btn-block btn-centered btn-large btn-primary sign-up" style="display: inherit;">{{ page.call-to-action.button-text }}</a>
+				<div>
+					<iframe width="854" height="480" src="{{ page.youtube.url }}" frameborder="0" allowfullscreen></iframe>
+				</div>
+
+			<div class="cta-container" style="margin-top: 50px;">
+				<a href="{{ page.call-to-action.url }}" class="btn btn-block btn-centered btn-large btn-primary sign-up" style="display: inherit;">{{ page.call-to-action.button-text }}</a>
 				<span class="btn-sub-text" style="color:#fff">{{ page.call-to-action.button-description }}</span>
 			</div>
-		</div>
-		<div>
-			<iframe width="854" height="480" src="{{ page.youtube.url }}" frameborder="0" allowfullscreen></iframe>
 		</div>
 </header>
