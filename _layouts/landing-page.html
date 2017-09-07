@@ -6,14 +6,16 @@ landing_page: true
  		<div class="container">
  			<h2>{{ page.title }}</h2>
 			<p class="sub-text landing-page">Устали сливать бюджет на то, что не приносит ощутимого результата?<br>Мы понимаем вас лучше, чем вы думаете.</p>
-
-				<div>
-					<iframe width="854" height="480" src="{{ page.youtube.url }}" frameborder="0" allowfullscreen></iframe>
-				</div>
-
+			
 			<div class="cta-container" style="margin-top: 50px;">
 				<a href="{{ page.call-to-action.url }}" class="btn btn-block btn-centered btn-large btn-primary sign-up" style="display: inherit;">{{ page.call-to-action.button-text }}</a>
 				<span class="btn-sub-text" style="color:#fff">{{ page.call-to-action.button-description }}</span>
 			</div>
+			
+			<div>
+				<iframe width="854" height="480" src={{ page.youtube.url }} frameborder="0" allowfullscreen></iframe>
+			</div>
+
+			
 		</div>
 </header>
