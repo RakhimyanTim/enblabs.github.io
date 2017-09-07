@@ -19,3 +19,48 @@ landing_page: true
 			
 		</div>
 </header>
+
+<section class="new-content first">
+	<div class="container">
+		<div class="new-text">
+			<h3>{{ page.features.first.title }}</h3>
+			<p>{{ page.features.first.description }}</p>
+
+		</div>
+		<div class="new-image">
+			<div>
+				<img class="screenshot" src="/img/home/{{ page.features.first.image }}" srcset="/img/home/{{ page.features.first.image }} 800w, /img/home/{{ page.features.first.image2x }} 1600w" alt="{{ page.features.first.title }}">
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="new-content alternate">
+	<div class="container">
+		<div class="new-text">
+			<h3>{{ page.features.second.title }}</h3>
+			<p>{{ page.features.second.description }}</p>
+
+		</div>
+		<div class="new-image">
+			<div>
+				<img class="screenshot" src="/img/home/{{ page.features.second.image }}" srcset="/img/home/{{ page.features.second.image }} 800w, /img/home/{{ page.features.second.image2x }} 1600w" alt="{{ page.features.second.title }}">
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="new-content">
+	<div class="container">
+		<div class="new-text">
+			<h3>{{ page.features.third.title }}</h3>
+			<p>{{ page.features.third.description }}</p>
+			<p>Content changes made on CloudCannon also sync back to your repository or Dropbox.</p>
+		</div>
+		<div class="new-image">
+			<div>
+				<img src="/img/home/{{ page.features.third.image }}" srcset="/img/home/{{ page.features.third.image }} 800w, /img/home/{{ page.features.third.image2x }} 1600w" alt="{{ page.features.third.title }}">
+			</div>
+		</div>
+	</div>
+</section>
