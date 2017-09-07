@@ -6,7 +6,7 @@ post_image: /uploads/pricing.png
 post_image_type: image/png
 post_image_width: 1600
 post_image_height: 583
-author: george
+author: walkingstartup
 extra_google_fonts: '|Material+Icons'
 ---
 
