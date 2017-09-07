@@ -8,8 +8,8 @@ landing_page: true
 			<p class="sub-text landing-page">Устали сливать бюджет на то, что не приносит ощутимого результата?<br>Мы понимаем вас лучше, чем вы думаете.</p>
 			
 			<div class="cta-container" style="margin-top: 50px;">
-				<a href="{{ page.call-to-action.url }}" class="btn btn-block btn-centered btn-large btn-primary sign-up" style="display: inherit;">{{ page.call-to-action.button-text }}</a>
-				<span class="btn-sub-text" style="color:#fff">{{ page.call-to-action.button-description }}</span>
+				<a href="{{ page.cta.upper.url }}" class="btn btn-block btn-centered btn-large btn-primary sign-up" style="display: inherit;">{{ page.cta.upper.btn }}</a>
+				<span class="btn-sub-text" style="color:#fff">{{ page.cta.upper.txt }}</span>
 			</div>
 			
 			<div style="margin-top: 50px;">
@@ -67,8 +67,8 @@ landing_page: true
 
 <section class="bright-section centered">
 	<div class="container">
-		<h2>{{ page.title }}</h2>
-		<p style="margin:0;"><a href="{{ page.call-to-action.url }}" class="btn btn-primary btn-large btn-block btn-centered sign-up">{{ page.call-to-action.button-text }}</a>
-		<span class="btn-sub-text new-content">{{ page.call-to-action.button-description }}</span></p>
+		<h2>{{ page.cta.lower.title }}</h2>
+		<p style="margin:0;"><a href="{{ page.cta.lower.url }}" class="btn btn-primary btn-large btn-block btn-centered sign-up">{{ page.cta.lower.btn }}</a>
+		<span class="btn-sub-text new-content">{{ page.cta.lower.txt }}</span></p>
 	</div>
 </section>
