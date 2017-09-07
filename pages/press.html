@@ -26,7 +26,7 @@ media_contacts:
 		<h4>Контакты для СМИ</h4>
 		<p>
 			{% for contact in page.media_contacts %}
-				{{ contact.name }}, {{ contact.position }} <a href="mailto:{{ contact.email }}">Email</a>
+				{{ contact.name }}, {{ contact.position }} <a href="mailto:{{ contact.email }}">эл. почта</a>
 				{% unless forloop.last %}<br>{% endunless %}
 			{% endfor %}
 		</p>
