@@ -1,7 +1,7 @@
 ---
-title: 'Pricing Update & Organisation Support'
-header: 'Pricing Update & Organisation Support'
-category: Announcements
+title: 'Принцип MAYA'
+header: 'Принцип MAYA'
+category: Мысли
 post_image: /uploads/pricing.png
 post_image_type: image/png
 post_image_width: 1600
