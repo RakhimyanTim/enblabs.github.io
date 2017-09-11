@@ -1,24 +1,32 @@
 
-- title: ЭнБиЛабс
+- title: Компания
   links:
-    - name: Главная
-      link: /
-    - name: Прайс
-      link: /pricing/
-    - name: Блог
-      link: /blog/
-    - name: Галерея
-      link: /gallery/
-    - name: Эксперты
-      link: /experts/
     - name: О нас
       link: /about/
-- title: Ресурсы
-  links:
-    - name: Пресса
-      link: /press/
+    - name: Блог
+      link: /blog/
+    - name: Карьера
+      link: /careers/
     - name: Контакты
       link: /contact/
+ - title: Прайсы
+  links:
+    - name: Условия использования
+      link: /terms/
+    - name: Конфиденциальность
+      link: /privacy/
+- title: Решения
+  links:
+    - name: Проекты
+      link: /projects/
+    - name: Отрасли
+      link: /industries/
+- title: Партнеры
+  links:
+    - name: Найти инвестора
+      link: /get-investor-help/
+    - name: Стать инвестором
+      link: /become-an-investor/
 - title: Соцсети
   links:
     - name: Твиттер
@@ -39,4 +47,12 @@
       new_window: true
 - title: Помощь
   links:
+    - name: Сообщество
+      link: /community/
+    - name: Документация
+      link: /documentation/
+    - name: Пресса
+      link: /press/
+    - name: Контакты
+      link: /contact/
 
