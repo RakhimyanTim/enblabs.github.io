@@ -12,7 +12,7 @@ permalink: /how-it-works/
 			<div class="video screenshot">
 				<div class="force-ratio">
 					<img height="520" width="800" class="main" src="/img/home/hydra.jpg" srcset="/img/home/hydra.jpg 800w, /img/home/hydra@2x.jpg 1600w" alt="Editable Hydra">
-					<a href="https://www.youtube.com/watch?v=NbJQXdcKzAE" target="_blank" class="play"><i class="material-icons">play_arrow</i></a>
+					<a href="#" target="_blank" class="play"><i class="material-icons">play_arrow</i></a>
 				</div>
 			</div>
 
@@ -27,7 +27,7 @@ permalink: /how-it-works/
 	<br>
 	<div class="container">
 		<div class="new-text">
-			<h4>1. Создание видео<br>(Video)</h4>
+			<h4>1. Создание видео<br>(Promo)</h4>
 			<p>Вы описываете проблему и решение.</p>
 
 			<p>На основании вашего описания мы создаем видеоролик.</p>
