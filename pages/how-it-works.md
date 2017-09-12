@@ -1,13 +1,31 @@
 ---
 layout: default
-title: Как это работает
-header: Как это работает
-header_subtext: 
-description: 
+title: Каждый может основать свой стартап
+header: Как сделать стартап
+header_subtext: Создай свой стартап без вложений и в три шага
+description: Создай свой стартап без вложений и в три шага
 permalink: /how-it-works/
 ---
+<header class="fancy-hero new-content">
+ 		<div class="container">
+ 			<h2>{{ page.title }}</h2>
+			<p class="sub-text landing-page">{{ page.description }}</p>
+
+			<div class="video screenshot">
+				<div class="force-ratio">
+					<img height="520" width="800" class="main" src="/img/home/hydra.jpg" srcset="/img/home/hydra.jpg 800w, /img/home/hydra@2x.jpg 1600w" alt="Editable Hydra">
+					<a href="https://www.youtube.com/watch?v=NbJQXdcKzAE" target="_blank" class="play"><i class="material-icons">play_arrow</i></a>
+				</div>
+			</div>
+
+			<div class="cta-container" style="margin-top: 50px;">
+				<a href="#" class="btn btn-block btn-centered btn-large btn-primary sign-up" style="display: inherit;">Попробовать бесплатно</a>
+				<span class="btn-sub-text" style="color:#fff">В бесплатной версии - создание видео и разработка сайта!</span>
+			</div>
+		</div>
+</header>
+
 <section class="new-content first">
-	<div style="text-align: center;"><h2>Как это работает?</h2></div>
 	<br>
 	<div class="container">
 		<div class="new-text">
