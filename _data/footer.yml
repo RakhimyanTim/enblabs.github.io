@@ -9,6 +9,12 @@
       link: /careers/
     - name: Контакты
       link: /contact/
+- title: Прайс
+  links:
+    - name: Условия
+      link: /terms-of-use/
+    - name: Конфиденциальность
+      link: /privacy-policy/
 - title: Решения
   links:
     - name: Проекты
