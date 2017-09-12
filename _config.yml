@@ -44,19 +44,19 @@ collections:
     name: Галерея
     output: false
   experts:
-    name: Эксперты
+    name: Партнеры
     output: false
   staff:
-    name: Члены компании
+    name: Сотрудники
     _hide_content: true
     output: false
   authors:
     name: Авторы
     output: false
   customers:
-    name: Кейсы
+    name: Проекты
     output: true
-    permalink: /case-studies/:name/
+    permalink: /projects/:name/
 defaults:
   - scope:
       path: ""
