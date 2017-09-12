@@ -5,30 +5,34 @@
       link: /about/
     - name: Блог
       link: /blog/
-    - name: Карьера
-      link: /careers/
     - name: Контакты
       link: /contact/
- - title: Прайсы
-  links:
-    - name: Условия использования
-      link: /terms/
-    - name: Конфиденциальность
-      link: /privacy/
 - title: Решения
   links:
     - name: Проекты
       link: /projects/
-    - name: Отрасли
-      link: /industries/
     - name: Партнеры
       link: /partners/
+- title: Соцсети
+  links:
+    - name: Twitter
+      link: https://twitter.com/enblabs
+      social_icon: Twitter
+      new_window: true
+    - name: Facebook
+      link: https://www.facebook.com/enblabs
+      social_icon: Facebook
+      new_window: true
+    - name: Google+
+      link: https://plus.google.com/+enblabs
+      social_icon: Google Plus
+      new_window: true
+    - name: YouTube
+      link: https://www.youtube.com/c/enblabs
+      social_icon: YouTube
+      new_window: true
 - title: Помощь
   links:
-    - name: Сообщество
-      link: /community/
-    - name: Документация
-      link: /documentation/
     - name: Пресса
       link: /press/
     - name: Контакты
