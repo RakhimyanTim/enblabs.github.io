@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Каждый может основать свой стартап
+title: Как сделать стартап
 header: Как сделать стартап
-header_subtext: Создай свой стартап без вложений и в три шага
-description: Создай свой стартап без вложений и в три шага
+header_subtext: Создай свой стартап в три простых шага и без вложений
+description: Создай свой стартап в три простых шага и без вложений
 permalink: /how-it-works/
 ---
 <header class="fancy-hero new-content">
