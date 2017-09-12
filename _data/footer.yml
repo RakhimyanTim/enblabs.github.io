@@ -17,12 +17,12 @@
       link: /privacy-policy/
 - title: Решения
   links:
+    - name: Академия
+      link: https://learn.enblabs.ru/
     - name: Проекты
       link: /projects/
     - name: Партнеры
       link: /partners/
-    - name: Академия
-      link: /learn/
 - title: Соцсети
   links:
     - name: Твиттер
