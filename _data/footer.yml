@@ -9,27 +9,32 @@
       link: /contact/
 - title: Решения
   links:
-
+    - name: Проекты
+      link: /projects/
+    - name: Партнеры
+      link: /partners/
 - title: Соцсети
   links:
-    - name: Twitter
+    - name: Твиттер
       link: https://twitter.com/enblabs
       social_icon: Twitter
       new_window: true
-    - name: Facebook
+    - name: Фейсбук
       link: https://www.facebook.com/enblabs
       social_icon: Facebook
       new_window: true
-    - name: Google+
+    - name: Гугл+
       link: https://plus.google.com/+enblabs
       social_icon: Google Plus
       new_window: true
-    - name: YouTube
+    - name: Ютуб
       link: https://www.youtube.com/c/enblabs
       social_icon: YouTube
       new_window: true
 - title: Помощь
   links:
+    - name: Документация
+      link: /doc/
     - name: Пресса
       link: /press/
     - name: Контакты
