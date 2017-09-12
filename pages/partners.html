@@ -9,6 +9,14 @@ permalink: /partners/
 
 <section>
 	<div class="container">
-		{% include partners-table.html %}
+		<div class="radio-selector">
+			<label><input type="radio" name="billing-period" value="monthly" checked><span>Инвесторы</span></label>
+			<label><input type="radio" name="billing-period" value="annually"><span>Акселераторы</span></label>
+		</div>
+
+		{% include pertners-table.html %}
+		<p class="seat-information monthly-price">Additional team members on paid plans cost $25 per month.</p>
+		<p class="seat-information annual-price" style="display: none;">Additional team members on paid plans cost $250 per year.</p>
 	</div>
 </section>
+
