@@ -4,7 +4,7 @@ title: Как это работает
 header: Как это работает
 header_subtext: 
 description: 
-permalink: /howitworks/
+permalink: /how-it-works/
 ---
 <section class="new-content first">
 	<div style="text-align: center;"><h2>Как это работает?</h2></div>
