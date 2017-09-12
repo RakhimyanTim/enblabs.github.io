@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Как сделать стартап
-description: Создай свой стартап в три простых шага и без вложений
+title: Как сделать свой стартап
+description: Трансформируй свою идею в три простых шага и без вложений
 permalink: /how-it-works/
 ---
 <header class="fancy-hero new-content">
