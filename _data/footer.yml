@@ -9,10 +9,7 @@
       link: /contact/
 - title: Решения
   links:
-    - name: Проекты
-      link: /projects/
-    - name: Партнеры
-      link: /partners/
+
 - title: Соцсети
   links:
     - name: Twitter
