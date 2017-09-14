@@ -48,8 +48,8 @@ collections:
     output: false
   staff:
     name: Команда
-    output: true
-    permalink: /:name/
+    _hide_content: true
+    output: false
   authors:
     name: Авторы
     output: false
