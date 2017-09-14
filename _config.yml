@@ -47,9 +47,9 @@ collections:
     name: Партнеры
     output: false
   staff:
-    name: Сотрудники
-    _hide_content: true
-    output: false
+    name: Команда
+    output: true
+    permalink: /team/:name/
   authors:
     name: Авторы
     output: false
