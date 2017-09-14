@@ -49,7 +49,7 @@ collections:
   staff:
     name: Команда
     output: true
-    permalink: /team/:name/
+    permalink: /:name/
   authors:
     name: Авторы
     output: false
