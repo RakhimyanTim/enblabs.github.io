@@ -7,6 +7,7 @@ logo:
 site: https://devices.netflix.com
 site_name: Netflix Devices
 tagline: The world’s leading Internet television network with over 62 million members.
+sitemap: false
 challenge: |
   Netflix is the world’s leading Internet television network. The company works hard to provide its partners and consumers with information at a fast pace. One of the ways Netflix does this is by ensuring informational websites stay up to date with relevant and engaging content.
 
