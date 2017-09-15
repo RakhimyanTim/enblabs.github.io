@@ -8,6 +8,7 @@ logo:
 site: https://www.engineyard.com
 site_name: Engine Yard
 tagline: The leading cloud orchestration platform to provision, manage, monitor and control applications.
+sitemap: false
 challenge: |
   Engine Yard is a pioneer in offering fantastic support and resources to the developer community. To cut development and maintenance time on their sites they needed a flexible yet lightweight platform.
 
