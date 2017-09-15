@@ -40,9 +40,6 @@ permalink: pretty
 timezone: Yekaterinburg
 
 collections:
-  gallery:
-    name: Галерея
-    output: false
   experts:
     name: Партнеры
     output: false
