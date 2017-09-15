@@ -11,10 +11,7 @@
       link: /contact/
 - title: Прайс
   links:
-    - name: Условия
-      link: /terms-of-use/
-    - name: Политика
-      link: /privacy-policy/
+
 - title: Решения
   links:
     - name: Проекты
@@ -41,8 +38,6 @@
       new_window: true
 - title: Помощь
   links:
-    - name: Документация
-      link: /doc/
     - name: Пресса
       link: /press/
     - name: Контакты
