@@ -11,20 +11,7 @@ permalink: /contact/
 	<div class="container">
 		<iframe height="300" frameborder="0" style="border:0; background: #eee; display: block; width: 100%;" src="https://www.google.com/maps/embed/v1/place?key={{ site[jekyll.environment].google_maps_embed_api_key }}&q={{ site.company.address | remove: ',' | replace: ' ','+' | uri_escape }}"></iframe>
 
-        <form action="/contact-success/" method="post" class="contact-form">
-			<input type="hidden" name="cc_emails[]" value="rahimtoy@gmail.com">
-
-			<label for="name">Ваше Имя</label>
-			<input type="text" name="name" id="name" placeholder="Введите ваше имя...">
-
-			<label for="email">Эл. Почта</label>
-			<input type="email" name="email" id="email" placeholder="Введите свою эл. почту..." required>
-
-			<label for="message">Сообщение</label>
-			<textarea name="message" id="message" placeholder="Введите ваше сообщение..."></textarea>
-
-			<input type="submit" value="Отправить сообщение">
-		</form>
+        <div align="center" style="height:100%;margin:auto;"><div id ="SOIDIV_walkingstartup"></div></div><script type="text/javascript" src="//cdn.scheduleonce.com/mergedjs/ScheduleOnceEmbed.js"></script><script type="text/javascript">(function(){function SOEScriptLoaded(){ if(typeof soe != 'undefined') { soe.AddEventListners("//meetme.so/walkingstartup?themeId=89vRoCl6hla73YRDjeBH0w%3d%3d&brdr=1pxd8d8d8&dt=&em=1","walkingstartup","635px","100% !important","false", "false"); } else { setTimeout(SOEScriptLoaded,1); } } setTimeout(SOEScriptLoaded,1)})()</script>
 
 		<div class="contact-details">
 			<h4>Адрес</h4>
