@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Как сделать свой стартап
-description: Трансформируй свою идею в три простых шага и запусти свой стартап без вложений
+title: Как это работает
+description: 
 permalink: /how-it-works/
 ---
 <header class="fancy-hero new-content">
@@ -17,8 +17,8 @@ permalink: /how-it-works/
 			</div>
 
 			<div class="cta-container" style="margin-top: 50px;">
-				<a href="#" class="btn btn-block btn-centered btn-large btn-primary sign-up" style="display: inherit;">Попробовать бесплатно</a>
-				<span class="btn-sub-text" style="color:#fff">В бесплатной версии - создание видео и разработка сайта!</span>
+				<a href="https://meetme.so/walkingstartup" class="btn btn-block btn-centered btn-large btn-primary sign-up" style="display: inherit;">Запланировать встречу</a>
+				<span class="btn-sub-text" style="color:#fff">Встречас с консультантом - бесплатно, 1-к-1 и не более 30 мин.</span>
 			</div>
 		</div>
 </header>
