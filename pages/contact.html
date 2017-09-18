@@ -11,29 +11,20 @@ permalink: /contact/
 	<div class="container">
 		<iframe height="300" frameborder="0" style="border:0; background: #eee; display: block; width: 100%;" src="https://www.google.com/maps/embed/v1/place?key={{ site[jekyll.environment].google_maps_embed_api_key }}&q={{ site.company.address | remove: ',' | replace: ' ','+' | uri_escape }}"></iframe>
 
-       <form method="post" action="/contact-success/" class="contact-form>
-  <label>Email Address</label>
-  <input type="text" name="email">
+        <form action="/contact-success/" method="post" class="contact-form">
+			<input type="hidden" name="cc_emails[]" value="enblabs@gmail.com">
 
-  <label>Name</label>
-  <input type="text" name="name">
+			<label for="name">Ваше имя</label>
+			<input type="text" name="name" id="name" placeholder="Введите ваше имя...">
 
-  <label>Message</label>
-  <textarea name="message"></textarea>
+			<label for="email">Адрес электронной почты</label>
+			<input type="email" name="email" id="email" placeholder="Введите ваш адрес эл. почты..." required>
 
-  <label>Urgent</label>
-  <input type="checkbox" name="urgent">
+			<label for="message">Сообщение</label>
+			<textarea name="message" id="message" placeholder="Введите ваше сообщение..."></textarea>
 
-  <label>Type of Enquiry</label>
-  <input type="radio" name="_subject" value="Sales Enquiry"> Sales
-  <input type="radio" name="_subject" value="General Enquiry"> General
-
-  <input type="hidden" name="_to" value="enblabs@gmail.com">
-  <input type="hidden" name="_cc" value="enblabs@gmail.com">
-  <input type="text" name="_gotcha" style="display: none;">
-
-  <input type="submit" value="Send Message">
-</form>
+			<input type="submit" value="Отправить">
+		</form>
 		
 		<div class="contact-details">
 			<h4>Адрес</h4>
