@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Как это работает
-description: 
+title: Каждый может проверить свою идею
+description: Проверьте свою идею в три простых шага.
 permalink: /how-it-works/
 ---
 <header class="fancy-hero new-content">
@@ -9,16 +9,9 @@ permalink: /how-it-works/
  			<h2>{{ page.title }}</h2>
 			<p class="sub-text landing-page">{{ page.description }}</p>
 
-			<div class="video screenshot">
-				<div class="force-ratio">
-					<img height="520" width="800" class="main" src="/img/home/hydra.jpg" srcset="/img/home/hydra.jpg 800w, /img/home/hydra@2x.jpg 1600w" alt="Editable Hydra">
-					<a href="#" target="_blank" class="play"><i class="material-icons">play_arrow</i></a>
-				</div>
-			</div>
-
 			<div class="cta-container" style="margin-top: 50px;">
-				<a href="https://meetme.so/walkingstartup" class="btn btn-block btn-centered btn-large btn-primary sign-up" style="display: inherit;">Запланировать встречу</a>
-				<span class="btn-sub-text" style="color:#fff">Встречас с консультантом - бесплатно, 1-к-1 и не более 30 мин.</span>
+				<a href="https://goo.gl/forms/XSokvk5lUzY4Vpbl2" class="btn btn-block btn-centered btn-large btn-primary sign-up" style="display: inherit;">Попробовать бесплатно</a>
+				<span class="btn-sub-text" style="color:#fff">У вас есть 24 часа, чтобы выкупить прототип, иначе он станет общедоступным.</span>
 			</div>
 		</div>
 </header>
