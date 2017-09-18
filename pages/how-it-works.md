@@ -11,7 +11,7 @@ permalink: /how-it-works/
 
 			<div class="cta-container" style="margin-top: 50px;">
 				<a href="https://goo.gl/forms/XSokvk5lUzY4Vpbl2" class="btn btn-block btn-centered btn-large btn-primary sign-up" style="display: inherit;">Попробовать бесплатно</a>
-				<span class="btn-sub-text" style="color:#fff">У вас есть 24 часа, чтобы выкупить прототип, иначе он станет общедоступным.</span>
+				<span class="btn-sub-text" style="color:#fff">У вас есть 24 часа, чтобы выкупить прототип.</span>
 			</div>
 		</div>
 </header>
