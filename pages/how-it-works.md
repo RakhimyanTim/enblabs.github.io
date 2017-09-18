@@ -21,28 +21,28 @@ permalink: /how-it-works/
 		<h3>Как это работает?</h3>
 		<div class="other-features">
 			<div class="col-1-3">
-				<h4><i class="material-icons">assignment</i> 1. Отправляете заявку</h4>
+				<h4><i class="material-icons">assignment</i> 1. Заявка</h4>
 				<p>Отправляете заявку по форме.</p>
 			</div>
 			<div class="col-1-3">
-				<h4><i class="material-icons">movie_filter</i>2. Создаем Видео</h4>
+				<h4><i class="material-icons">movie_filter</i>2. Видео</h4>
 				<p>Создаем проморолик с титрами.</p>
 			</div>
 			<div class="col-1-3">
-				<h4><i class="material-icons">phonelink</i>3. Делаем Лендинг</h4>
+				<h4><i class="material-icons">phonelink</i>3. Лендинг</h4>
 				<p>Верстаем одностраничный сайт.</p>
 			</div>
 
 			<div class="col-1-3">
-				<h4><i class="material-icons">people</i>4. Завем народ</h4>
+				<h4><i class="material-icons">people</i>4. Народ</h4>
 				<p>Приглашаем тестировщиков на сайт.</p>
 			</div>
 			<div class="col-1-3">
-				<h4><i class="material-icons">track_changes</i>5. Собираем метрики</h4>
-				<p>Измеряем метрики по сайту.</p>
+				<h4><i class="material-icons">track_changes</i>5. Метрики</h4>
+				<p>Собираем метрики по сайту.</p>
 			</div>
 			<div class="col-1-3">
-				<h4><i class="material-icons">email</i> Отправляем результаты</h4>
+				<h4><i class="material-icons">email</i> Результаты</h4>
 				<p>Высылаем результаты на e-mail.</p>
 			</div>
 		</div>
