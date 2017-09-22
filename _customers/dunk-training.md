@@ -32,36 +32,24 @@ overview:
     
 features:
   - name: Проверка идеи
-    description: "Developers work on the site on their local machine. Marketers update in CloudCannon. Everything stays in sync through GitHub.
-
-    All content/file changes are version controlled and can be rolled back at any time."
+    description: "Developers work on the site on their local machine. Marketers update in CloudCannon. Everything stays in sync through GitHub. All content/file changes are version controlled and can be rolled back at any time."
     image_path: /img/customers/netflix/filebrowser.png
     
   - name: Разработка лого
-    description: "Marketers can update the site themselves by clicking on text to start writing content.
-
-    Developers define the Editable Regions by adding `class=\"editable\"` to elements in the HTML.
-    "
-    image_path: /img/customers/netflix/editable_region.png
+    description: "Marketers can update the site themselves by clicking on text to start writing content. Developers define the Editable Regions by adding `class=\"editable\"` to elements in the HTML."
+    image_path: /img/customers/dunk-training/logo.jpg
     
   - name: Разработка мокапов
-    description: "Marketers control all parts of the site including the page title and sponsorship sections.
-
-    Developers set up the interface for making these changes by writing simple [Front Matter](https://docs.cloudcannon.com/editing/front-matter/).
-    "
-    image_path: /img/customers/netflix/frontmatter.png
+    description: "Marketers control all parts of the site including the page title and sponsorship sections. Developers set up the interface for making these changes by writing simple [Front Matter](https://docs.cloudcannon.com/editing/front-matter/)."
+    image_path: /img/customers/dunk-training/mockups.jpg
     
   - name: Создание промо
-    description: "The devices Netflix supports are managed using a simple interface.
-
-    The Developers were able to quickly set up this interface by using [Collections](https://docs.cloudcannon.com/editing/collections/)."
-    image_path: /img/customers/netflix/collections.png
+    description: "The devices Netflix supports are managed using a simple interface. The Developers were able to quickly set up this interface by using [Collections](https://docs.cloudcannon.com/editing/collections/)."
+    image_path: /img/customers/dunk-training/video.jpg
     
   - name: Сроздание сайта
-    description: "Netflix Devices is translated into 16 languages which all get served from the same Jekyll site.
-
-    Marketers update the site in English. The Netflix translation team works behind the scenes translating content into the other languages they support."
-    image_path: /img/customers/netflix/languages.png
+    description: "Netflix Devices is translated into 16 languages which all get served from the same Jekyll site. Marketers update the site in English. The Netflix translation team works behind the scenes translating content into the other languages they support."
+    image_path: /img/customers/dunk-training/landing.jpg
     
 summary: |
   Netflix Partner Marketing can now get sites online and in front of customers faster than has ever been possible.
