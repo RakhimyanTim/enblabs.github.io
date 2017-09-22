@@ -12,13 +12,10 @@ challenge: |
   К нам обратился [Дмитрий Картишко](https://vk.com/id430048675) с идеей мобильного приложения для iOS, "чтобы можно было в него выкладывать видео по категориям при помощи ссылки с YouTube". По его мнению, такое приложение позволило бы увеличить трафик на его [канал в Youtube](https://www.youtube.com/channel/UCHMTlpTaZZXF6tKJFS13p). 
  
 solution: |
-  По результатам общения с баскетболистами (custdev), было решено полностью изменить предлагаемые автором ценности, в частности: 
-  1) Видео-уроки хорошего качества
-  2) Персональный план тренировок
-  3) Ближайщие доступные площадки
+  По результатам общения с баскетболистами (custdev), было решено полностью изменить предлагаемые автором ценности, в частности: 1) видео-уроки хорошего качества, 2) персональный план тренировок, 3) ближайщие доступные площадки.
   
 testimonial:
-  text: "Netflix is known for being nimble and moving at a high pace. Partnering with CloudCannon enables my Enterprise Platforms Team at Netflix to deliver highly customizable microsites to our internal business partners rapidly so they can work at the speed of our customers."
+  text: "Это круто, что есть такая возможность - спасло меня от разорения. Не знаю даже, что бы я делал, если бы отдал 100к на разработку и все в некуда! Ребятам, спасибо за сервис!!!"
   image_path: /img/customers/netflix/ashi-small@2x.jpg
   name: Дмитрий Картишко
   work_title: Основатель Dunk & Training
