@@ -16,7 +16,7 @@ solution: |
   
 testimonial:
   text: "Это круто, что есть такая возможность - спасло меня от разорения. Не знаю даже, что бы я делал, если бы отдал 100к на разработку и все в некуда! Ребятам, спасибо за сервис!!!"
-  image_path: /img/customers/netflix/ashi-small@2x.jpg
+  image_path: /img/customers/dunk-training/dim-small@2x.jpg
   name: Дмитрий Картишко
   work_title: Основатель Dunk & Training
   work_path: https://vk.com/dunk_training
