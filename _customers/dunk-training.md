@@ -34,28 +34,22 @@ overview:
     
 features:
   - name: Проверка идеи
-    description: "Developers work on the site on their local machine. Marketers update in CloudCannon. Everything stays in sync through GitHub. All content/file changes are version controlled and can be rolled back at any time."
+    description: "В общей сложности, проблемное интервью прошли 10 баскетболистов обоего пола (средний возраст - 23). В ходе интервью задавались вопросы закрытого типа (Как они учились прыжкам? Какие проблемы были? Как они это решали?). 9 из 10 отметили, что у них были проблемы с поиском тренировочных упражнений, что существующие решения (Youtube, веб-сайты и тд) как мусорный ящик для всех."
     image_path: /img/customers/dunk-training/custdev.jpg
     
   - name: Разработка лого
-    description: "Marketers can update the site themselves by clicking on text to start writing content. Developers define the Editable Regions by adding `class=\"editable\"` to elements in the HTML."
+    description: "Пока мы общались с авторов идеи, стало понятно, что существующий логотип никуда не годится. Предложили достаточно простой лого с элементами баскетбола (ораннжевы мяч) и прыжка (разгоняющие линии)."
     image_path: /img/customers/dunk-training/logo.jpg
     
   - name: Разработка мокапов
-    description: "Marketers control all parts of the site including the page title and sponsorship sections. Developers set up the interface for making these changes by writing simple [Front Matter](https://docs.cloudcannon.com/editing/front-matter/)."
+    description: "Мокапы были сделаны с учетом результатов, полеченных в ходе интервьюирования спортсменов.  По ним довольно понятно, что приложение содержит не только подробный план тренировок, но и карту, на которой отмечены места для тренировок. "
     image_path: /img/customers/dunk-training/mockups.jpg
     
   - name: Создание промо
-    description: "The devices Netflix supports are managed using a simple interface. The Developers were able to quickly set up this interface by using [Collections](https://docs.cloudcannon.com/editing/collections/)."
+    description: "При создании промо мы исходили из 2-х оганичивающих нас факторов. Во-первыых, это особеность нашей целевой аудитории (известно, что спортсмены не любыт явную продажу). Во-вторых, мы хотели заинтриговать потенциальных пользователей."
     image_path: /img/customers/dunk-training/video.jpg
     
   - name: Сроздание сайта
-    description: "Netflix Devices is translated into 16 languages which all get served from the same Jekyll site. Marketers update the site in English. The Netflix translation team works behind the scenes translating content into the other languages they support."
+    description: "Сайт (лендинг) сделали максимально простым. Убрали все лишние (отвлекающие) элементы. Оставили только видео и CTA-кнопки."
     image_path: /img/customers/dunk-training/landing.jpg
-    
-summary: |
-  Netflix Partner Marketing can now get sites online and in front of customers faster than has ever been possible.
-
-  Netflix Devices was a successful pilot of the CloudCannon platform. We're currently working with Netflix to roll out more sites in the coming months.
-
 ---
