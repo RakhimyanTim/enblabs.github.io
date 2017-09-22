@@ -52,28 +52,24 @@ features:
     description: "Marketers control all parts of the site including the page title and sponsorship sections.
 
     Developers set up the interface for making these changes by writing simple [Front Matter](https://docs.cloudcannon.com/editing/front-matter/).
-
     "
     image_path: /img/customers/netflix/frontmatter.png
-  - name: Collections
+    
+  - name: Создание промо
     description: "The devices Netflix supports are managed using a simple interface.
 
     The Developers were able to quickly set up this interface by using [Collections](https://docs.cloudcannon.com/editing/collections/)."
     image_path: /img/customers/netflix/collections.png
     
-  - name: Создание промо
+  - name: Сроздание сайта
     description: "Netflix Devices is translated into 16 languages which all get served from the same Jekyll site.
 
     Marketers update the site in English. The Netflix translation team works behind the scenes translating content into the other languages they support."
     image_path: /img/customers/netflix/languages.png
     
-  - name: Сроздание сайта
+  - name: Проверка рынка
     description: "Users are only shown devices and sections relevant to their country. This allows Netflix to completely customise the website experience to an individual customer."
     image_path: /img/customers/netflix/geo.png
-    
-  - name: Проверка рынка
-    description: "Content updates are made on a staging site. The team can preview the site and see exactly how it will look before they push it live."
-    image_path: /img/customers/netflix/staging.png
     
   - name: Поиск инвесторов
     description: "Content updates are made on a staging site. The team can preview the site and see exactly how it will look before they push it live."
