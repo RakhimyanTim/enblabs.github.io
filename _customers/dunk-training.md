@@ -67,14 +67,6 @@ features:
     Marketers update the site in English. The Netflix translation team works behind the scenes translating content into the other languages they support."
     image_path: /img/customers/netflix/languages.png
     
-  - name: Проверка рынка
-    description: "Users are only shown devices and sections relevant to their country. This allows Netflix to completely customise the website experience to an individual customer."
-    image_path: /img/customers/netflix/geo.png
-    
-  - name: Поиск инвесторов
-    description: "Content updates are made on a staging site. The team can preview the site and see exactly how it will look before they push it live."
-    image_path: /img/customers/netflix/staging.png
-    
 summary: |
   Netflix Partner Marketing can now get sites online and in front of customers faster than has ever been possible.
 
