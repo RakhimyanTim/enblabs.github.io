@@ -21,16 +21,15 @@ testimonial:
   work_title: Основатель Dunk & Training
   work_path: https://vk.com/dunk_training
 overview:
-  - image_path: /img/customers/netflix/home.png
-    alt: Devices Home Page
-  - image_path: /img/customers/netflix/devices.png
-    alt: Devices
-  - image_path: /img/customers/netflix/nrtv.png
-    alt: NRTV
-  - image_path: /img/customers/netflix/languages.png
-    alt: Internationlisation
-  - image_path: /img/customers/netflix/geo.png
-    alt: Geolocation
+  - image_path: /img/customers/dunk-training/logo.jpg
+    alt: Разработка лого
+  - image_path: /img/customers/dunk-training/mockups.jpg
+    alt: Разработка мокапов
+  - image_path: /img/customers/dunk-training/video.jpg
+    alt: Создание промо
+  - image_path: /img/customers/dunk-training/landing.jpg
+    alt: Создание сайта
+    
 features:
   - name: Проверка идеи
     description: "Developers work on the site on their local machine. Marketers update in CloudCannon. Everything stays in sync through GitHub.
