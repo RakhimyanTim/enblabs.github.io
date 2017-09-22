@@ -21,6 +21,8 @@ testimonial:
   work_title: Основатель Dunk & Training
   work_path: https://vk.com/dunk_training
 overview:
+  - image_path: /img/customers/dunk-training/custdev.jpg
+    alt: Проверка идеи
   - image_path: /img/customers/dunk-training/logo.jpg
     alt: Разработка лого
   - image_path: /img/customers/dunk-training/mockups.jpg
@@ -33,7 +35,7 @@ overview:
 features:
   - name: Проверка идеи
     description: "Developers work on the site on their local machine. Marketers update in CloudCannon. Everything stays in sync through GitHub. All content/file changes are version controlled and can be rolled back at any time."
-    image_path: /img/customers/netflix/filebrowser.png
+    image_path: /img/customers/dunk-training/custdev.jpg
     
   - name: Разработка лого
     description: "Marketers can update the site themselves by clicking on text to start writing content. Developers define the Editable Regions by adding `class=\"editable\"` to elements in the HTML."
