@@ -13,6 +13,9 @@ permalink: /how-it-works/
 				<a href="https://goo.gl/forms/XSokvk5lUzY4Vpbl2" class="btn btn-block btn-centered btn-large btn-primary sign-up" style="display: inherit;">Попробовать бесплатно</a>
 				<span class="btn-sub-text" style="color:#fff">У вас есть 24 часа, чтобы выкупить прототип.</span>
 			</div>
+			<div style="margin-top: 30px;">
+				<iframe width="854" height="480" src="https://www.youtube.com/embed/aaamw26xc68?rel=0" frameborder="0"></iframe>
+			</div>
 		</div>
 </header>
 
