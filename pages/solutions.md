@@ -9,7 +9,7 @@ permalink: /solutions/
  			<h2>{{ page.title }}</h2>
 			<p class="sub-text landing-page">{{ page.description }}</p>
 
-			<div class="cta-container" style="margin-top: 50px;">
+			<div class="cta-container" style="margin-top: 30px;">
 				<a href="https://goo.gl/forms/XSokvk5lUzY4Vpbl2" class="btn btn-block btn-centered btn-large btn-primary sign-up" style="display: inherit;">Отправить идею</a>
 				<span class="btn-sub-text" style="color:#fff">Внимание! Мы не передаем Вашу идею третьим лицам.</span>
 			</div>
