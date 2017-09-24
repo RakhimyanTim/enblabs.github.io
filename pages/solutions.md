@@ -21,32 +21,32 @@ permalink: /solutions/
 
 <section style="background: #f5f5f5">
 	<div class="container">
-		<h3>Что мы предлагаем?</h3>
+		<h3 style="text-align: center;">Решения</h3>
 		<div class="other-features">
 			<div class="col-1-3">
-				<h4><i class="material-icons">record_voice_over</i> 1. CustDev</h4>
-				<p>Тестируем идею прототипа на потенциальных клиентах.</p>
+				<h4 style="text-align: center;"><i class="material-icons">record_voice_over</i> 1. CustDev</h4>
+				<p style="text-align: center;">Тестируем идею прототипа на потенциальных клиентах.</p>
 			</div>
 			<div class="col-1-3">
-				<h4><i class="material-icons">ondemand_video</i> 2. Promo</h4>
-				<p>Создаем проморолик с титрами или озвучкой.</p>
+				<h4 style="text-align: center;"><i class="material-icons">ondemand_video</i> 2. Promo</h4>
+				<p style="text-align: center;">Создаем проморолик с титрами или озвучкой.</p>
 			</div>
 			<div class="col-1-3">
-				<h4><i class="material-icons">flip</i> 3. Mockups</h4>
-				<p>Делаем макеты прототипа.</p>
+				<h4 style="text-align: center;"><i class="material-icons">flip</i> 3. Mockups</h4>
+				<p style="text-align: center;">Делаем макеты прототипа.</p>
 			</div>
 
 			<div class="col-1-3">
-				<h4><i class="material-icons">important_devices</i> 4. Landing</h4>
-				<p>Верстаем одностраничный сайт с видео и CTA-кнопками.</p>
+				<h4 style="text-align: center;"><i class="material-icons">important_devices</i> 4. Landing</h4>
+				<p style="text-align: center;">Верстаем одностраничный сайт с видео и CTA-кнопками.</p>
 			</div>
 			<div class="col-1-3">
-				<h4><i class="material-icons">track_changes</i> 5. Market</h4>
-				<p>Тестируем каналы привлечения потенциальных клиентов.</p>
+				<h4 style="text-align: center;"><i class="material-icons">track_changes</i> 5. Market</h4>
+				<p style="text-align: center;">Тестируем каналы привлечения потенциальных клиентов.</p>
 			</div>
 			<div class="col-1-3">
-				<h4><i class="material-icons">attach_money</i> Investor</h4>
-				<p>Помогаем найти инвестиции на стадии идеи.</p>
+				<h4 style="text-align: center;"><i class="material-icons">attach_money</i> Investor</h4>
+				<p style="text-align: center;">Помогаем найти инвестиции на стадии идеи.</p>
 			</div>
 		</div>
 	</div>
