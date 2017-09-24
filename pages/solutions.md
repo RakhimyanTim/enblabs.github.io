@@ -21,7 +21,7 @@ permalink: /solutions/
 
 <section style="background: #f5f5f5">
 	<div class="container">
-		<h3 style="text-align: center;">Решения</h3>
+		<h2 style="text-align: center;">Решения</h2>
 		<div class="other-features">
 			<div class="col-1-3">
 				<h4 style="text-align: center;"><i class="material-icons">record_voice_over</i> 1. CustDev</h4>
