@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Каждый может проверить свою идею
-description: Проверьте свою идею в три простых шага.
-permalink: /services/
+title: Что мы предлагаем?
+description: Отправить нам свою идею и получить экспертизу в течение 24 ч.
+permalink: /solutions/
 ---
 <header class="fancy-hero new-content">
  		<div class="container">
@@ -10,8 +10,8 @@ permalink: /services/
 			<p class="sub-text landing-page">{{ page.description }}</p>
 
 			<div class="cta-container" style="margin-top: 50px;">
-				<a href="https://goo.gl/forms/XSokvk5lUzY4Vpbl2" class="btn btn-block btn-centered btn-large btn-primary sign-up" style="display: inherit;">Забронировать беспатную консультацию</a>
-				<span class="btn-sub-text" style="color:#fff">Консультация проходит онлайн, не более 30 мин.</span>
+				<a href="https://goo.gl/forms/XSokvk5lUzY4Vpbl2" class="btn btn-block btn-centered btn-large btn-primary sign-up" style="display: inherit;">Получить экспертизу бесплатно</a>
+				<span class="btn-sub-text" style="color:#fff">Внимание! Мы не передаем Вашу идею третьим лицам.</span>
 			</div>
 			<div style="margin-top: 30px;">
 				<iframe width="854" height="480" src="https://www.youtube.com/embed/aaamw26xc68?rel=0" frameborder="0"></iframe>
