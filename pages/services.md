@@ -2,7 +2,7 @@
 layout: default
 title: Каждый может проверить свою идею
 description: Проверьте свою идею в три простых шага.
-permalink: /how-it-works/
+permalink: /services/
 ---
 <header class="fancy-hero new-content">
  		<div class="container">
@@ -21,32 +21,32 @@ permalink: /how-it-works/
 
 <section style="background: #f5f5f5">
 	<div class="container">
-		<h3>Как это работает?</h3>
+		<h3>Что мы предлагаем?</h3>
 		<div class="other-features">
 			<div class="col-1-3">
-				<h4><i class="material-icons">assignment</i> 1. Заявка</h4>
-				<p>Отправляете заявку по форме.</p>
+				<h4><i class="material-icons">assignment</i> 1. CustDev</h4>
+				<p>Тестируем идею прототипа на потенциальных клиентах .</p>
 			</div>
 			<div class="col-1-3">
-				<h4><i class="material-icons">movie_filter</i>2. Видео</h4>
-				<p>Создаем проморолик с титрами.</p>
+				<h4><i class="material-icons">movie_filter</i>2. Promo</h4>
+				<p>Создаем проморолик с титрами или озвучкой.</p>
 			</div>
 			<div class="col-1-3">
-				<h4><i class="material-icons">phonelink</i>3. Лендинг</h4>
-				<p>Верстаем одностраничный сайт.</p>
+				<h4><i class="material-icons">phonelink</i>3. Mockups</h4>
+				<p>Делаем макеты прототипа.</p>
 			</div>
 
 			<div class="col-1-3">
-				<h4><i class="material-icons">people</i>4. Народ</h4>
-				<p>Приглашаем тестировщиков на сайт.</p>
+				<h4><i class="material-icons">people</i>4. Landing</h4>
+				<p>Верстаем одностраничный сайт с видео и CTA-кнопками.</p>
 			</div>
 			<div class="col-1-3">
-				<h4><i class="material-icons">track_changes</i>5. Метрики</h4>
-				<p>Собираем метрики по сайту.</p>
+				<h4><i class="material-icons">track_changes</i>5. Market</h4>
+				<p>Тестируем разные каналы привлечения потенциальных клиентов.</p>
 			</div>
 			<div class="col-1-3">
-				<h4><i class="material-icons">email</i> Результаты</h4>
-				<p>Высылаем результаты на e-mail.</p>
+				<h4><i class="material-icons">email</i> Investor</h4>
+				<p>Помогаем найти инвестиции на стадии идеи.</p>
 			</div>
 		</div>
 	</div>
